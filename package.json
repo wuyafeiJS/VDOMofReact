@@ -1,0 +1,23 @@
+{
+  "name": "vdomofreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel index.js --out-file compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyafeiJS/VDOMofReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuyafeiJS/VDOMofReact/issues"
+  },
+  "homepage": "https://github.com/wuyafeiJS/VDOMofReact#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
+}
